@@ -230,8 +230,4 @@ Android存储->
 补充：水波纹效果
  `android:foreground="?selectableItemBackground"`
  <ripple>标签
- 2020-04-27
- - [x] 完成上述内容
- - [ ] 参考官网文档进行 代码补充、完善
- - [ ] 阅读书籍《第一行代码》
-
+ 
