@@ -11,3 +11,7 @@ Android练习
 
 - [ ] Jetpack概念项目
 - [ ] ViewModelTest
+
+矢量图添加方式
+
+![image](https://github.com/zhengjiani/AndroidPrac/blob/master/mdimg/svg%E6%B7%BB%E5%8A%A0%E6%96%B9%E5%BC%8F.png)
